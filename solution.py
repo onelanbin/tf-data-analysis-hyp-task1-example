@@ -4,6 +4,7 @@ import math
 
 chat_id = 1266169265 # Ваш chat ID, не меняйте название переменной
 
+
 def solution(x_success: int, 
              x_cnt: int, 
              y_success: int, 
